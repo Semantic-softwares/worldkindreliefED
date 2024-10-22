@@ -1,5 +1,5 @@
 Uri: https://araha.org/
-File Name: C:\Downloaded Web Sites\araha.org\index-1.htm
+File Name: C:\Downloaded Web Sites\araha.org\index.html
 Content Type: text/html
 
 Uri: https://araha.org/adopt-a-school/
